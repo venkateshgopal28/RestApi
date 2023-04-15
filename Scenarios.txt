@@ -1,0 +1,8 @@
+1. To add basic checks on any API and Validate the below from API response:
+Below is just an example
+
+That the status code is equal to ‘200’
+That the content type is ‘application/json’
+That if the pet is a ‘dog’
+That its name is ‘snoopie’
+That its current status is ‘pending’
